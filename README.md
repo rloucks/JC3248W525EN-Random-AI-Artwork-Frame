@@ -1,4 +1,4 @@
-# ESP32 AI Image Display
+# JC3248W525EN Random AI Artwork Frame
 
 > An autonomous AI art gallery powered by ESP32, ComfyUI, and SDXL - generating unique artwork every 2 minutes on a touchscreen display.
 
@@ -13,10 +13,7 @@
 
 ## Hardware Requirements
 
-- ESP32 Development Board (ESP32-S3 recommended)
-- 320x480 Touchscreen with LVGL support
-- 4MB+ Flash memory
-- WiFi capability
+- JC3248W525EN
 
 ## Dependencies
 
