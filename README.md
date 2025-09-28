@@ -14,12 +14,13 @@
 ## Hardware Requirements
 
 - JC3248W525EN
+- Something running server stuff
 
 ## Dependencies
 
 ### Arduino Libraries
 ```
-- chinScreen (display driver)
+- chinScreen (display driver) https://github.com/rloucks/chinScreen/tree/main
 - WiFi
 - HTTPClient
 - ArduinoJson
